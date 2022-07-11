@@ -7,7 +7,7 @@ The URL used to scrape is https://www.timeanddate.com/holidays/us/2022?hol=33554
 The config.py file is needed to obtain variables used in JSON save/read functions, or you could just use your own file names.
 
 Files in Repo:
-.gitignore: obviously ignore it
+.gitignore: obviously ignore it \n
 Holiday-Psuedocode-Planning.txt: pseudocode used prior to beginning coding to plan out approach
 README.md: what you're reading right now
 calendarHolidays.json: the JSON out file of 7 starter holidays + all holidays scraped from above URL
